@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VaultShop Bot - Terms of Service</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1, h2 { color: #333; }
+        p { line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>VaultShop Bot - Terms of Service</h1>
+    <p>Last Updated: [Insert Date]</p>
+    
+    <h2>1. Acceptance of Terms</h2>
+    <p>By using the VaultShop Bot ("the Bot"), you agree to comply with and be bound by these Terms of Service ("ToS"). If you do not agree, you must cease using the Bot immediately.</p>
+    
+    <h2>2. Use of the Bot</h2>
+    <p>You may use the Bot only for lawful purposes and in accordance with Discord's Terms of Service. The Bot must not be used for spamming, harassment, or any malicious activities.</p>
+    
+    <h2>3. User Responsibilities</h2>
+    <p>You are responsible for how you interact with the Bot. Misuse may result in being banned from using the Bot or facing further action.</p>
+    
+    <h2>4. Data Collection</h2>
+    <p>The Bot may collect and store certain user data necessary for functionality, such as message logs and user IDs. This data is not shared with third parties.</p>
+    
+    <h2>5. Modifications & Termination</h2>
+    <p>We reserve the right to modify or discontinue the Bot at any time without notice. Continued use after modifications constitutes acceptance of the updated Terms.</p>
+    
+    <h2>6. Liability Disclaimer</h2>
+    <p>The Bot is provided "as is" without any warranties. We are not liable for any damages or issues caused by the use of the Bot.</p>
+    
+    <h2>7. Contact Information</h2>
+    <p>If you have any questions regarding these Terms, please contact the bot administrator.</p>
+</body>
+</html>
